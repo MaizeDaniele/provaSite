@@ -118,3 +118,11 @@ header h1{
 article{
     margin: 10px;
 }
+
+
+.BigInvitation{
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
